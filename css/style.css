@@ -152,6 +152,11 @@ first div in the grid  and place it in the grid. */
   background-repeat: no-repeat; 
 }
 
+/* fixing extended paragraph */
+.overview p{
+  margin: 0;
+  padding: 10px;
+}
 
 
 /* Steps 6 and 7: Write the selector/rule properties to add place the next elements in the next
